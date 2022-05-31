@@ -46,10 +46,7 @@
 <br>
 <br>
 <br>
- ![Moussatef 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bissaoui&theme=redical&hide_border=true&area=true)  |
- 
- ![Moussatef github stats](https://github-readme-stats.vercel.app/api?username=bissaoui&show_icons=true&theme=radical) 
- 
-![Moussatef GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bissaoui&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bissaoui&langs_count=8&theme=radical&layout=compact) 
+ ![Moussatef 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bissaoui&theme=redical&hide_border=true&area=true)  |  ![Moussatef github stats](https://github-readme-stats.vercel.app/api?username=bissaoui&show_icons=true&theme=radical) 
+ 
+![Moussatef GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bissaoui&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bissaoui&langs_count=8&theme=radical&layout=compact) 
